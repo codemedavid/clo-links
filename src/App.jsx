@@ -60,17 +60,17 @@ const Home = () => {
         <div className="logo-container">
           <img
             src="/logo.png"
-            alt="PAURE Logo"
+            alt="CLOPepties Logo"
             className="logo-img"
           />
           <div className="logo-glow"></div>
         </div>
 
         <h1 className="brand-name">
-          CLO Peptides
+          CLO_Pepties
         </h1>
         <p className="brand-tagline">
-          Peptide Enthusiast, USER & PROVIDES
+          NOT a Medical Professional only a Pepties Enthusiast, User & Provider
         </p>
       </header>
 
