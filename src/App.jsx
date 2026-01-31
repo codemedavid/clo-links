@@ -59,7 +59,7 @@ const Home = () => {
       <header className="header animate-fade-in">
         <div className="logo-container">
           <img
-            src="/logo.png"
+            src="/logo-main.png"
             alt="CLOPepties Logo"
             className="logo-img"
           />
