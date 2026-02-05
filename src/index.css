@@ -25,7 +25,7 @@
 
 body {
   font-family: var(--font-body);
-  background: url('/background-main.png') center/cover no-repeat fixed;
+  background: url('/marble-bg.png') center/cover no-repeat fixed;
   color: var(--color-text);
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
